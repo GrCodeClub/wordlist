@@ -1,0 +1,11 @@
+scripts/code-clean.sh
+scripts/cron-curl.sh
+scripts/cron-lynx.sh
+scripts/drupal.sh
+scripts/dump-database-d6.sh
+scripts/dump-database-d7.sh
+scripts/generate-d6-content.sh
+scripts/generate-d7-content.sh
+scripts/password-hash.sh
+scripts/run-tests.sh
+scripts/test.script

@@ -1,0 +1,16 @@
+profiles/minimal/minimal.info
+profiles/minimal/minimal.install
+profiles/minimal/minimal.profile
+profiles/minimal/translations/README.txt
+profiles/standard/standard.info
+profiles/standard/standard.install
+profiles/standard/standard.profile
+profiles/standard/translations/README.txt
+profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info
+profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module
+profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.test
+profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info
+profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module
+profiles/testing/testing.info
+profiles/testing/testing.install
+profiles/testing/testing.profile

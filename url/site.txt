@@ -1,0 +1,5 @@
+sites/all/modules/README.txt
+sites/all/themes/README.txt
+sites/default/default.settings.php
+sites/example.sites.php
+sites/README.txt
